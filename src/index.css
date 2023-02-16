@@ -13,7 +13,7 @@ ol{
 input{
   width: 100%;
   height: 34px;
-  font-size: 1.6rem;
+  font-size: 1.3rem;
   background-color: #fff;
   color: #4f053b;
   border: 4px solid #fff;
@@ -42,7 +42,7 @@ header {
 }
 .search{
   grid-column-start: 2;
-  grid-column-end: 4;
+  grid-column-end: 7;
 }
 
 .category_name{
